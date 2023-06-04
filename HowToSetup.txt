@@ -1,0 +1,2 @@
+The installation of my game is incredibly simple, by running the BrickRun_setup application in the file, 
+you can follow the steps in Turkish or English and as a result, you can install the game on your computer.
